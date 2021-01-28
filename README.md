@@ -1,6 +1,8 @@
 # GoodData Spark Example 
 This example shows how to create Spark Dataset on top of GoodData workspace. 
-The dataset uses the workspace created in [this tutorial](https://github.com/zsvoboda/gooddata-jdbc/wiki/GoodData-metrics-tutorial). 
+The dataset uses the workspace created in [this tutorial](https://github.com/zsvoboda/gooddata-jdbc/wiki/GoodData-metrics-tutorial).
+
+![](https://github.com/zsvoboda/gooddata-jdbc/wiki/images/gd.spark.png)
 
 ## Setup
 
