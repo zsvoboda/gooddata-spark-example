@@ -16,6 +16,10 @@ The file has this structure:
 }
 ```
 
+## Code
+
+Check out the [example code](https://github.com/zsvoboda/gooddata-spark-example/blob/master/src/main/java/com/gooddata/spark/example/SparkExample.java)  
+
 ## License
 [MIT license](LICENSE)
 
